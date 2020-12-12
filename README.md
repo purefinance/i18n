@@ -1,2 +1,3 @@
 # i18n
-Internationalization
+
+Documents, metadata, resources and tips related to internationalization of cryptocurrency, blockchain and decentralized finance projects.
